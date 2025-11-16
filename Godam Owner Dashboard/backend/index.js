@@ -9,7 +9,7 @@ import labourRoutes from "./routes/labour.js";
 import kabadiwalaRoutes from "./routes/kabadiwala.js";
 import feriwalaRoutes from "./routes/feriwala.js";
 import maalOutRoutes from "./routes/maalOut.js";
-import maalinRoutes from "./routes/maalin.js";
+import maalinRoutes from "./routes/maalIn.js";
 import truckRoutes from "./routes/truck.js";
 
 // DB Connection
